@@ -1,0 +1,5 @@
+{
+    "name": "RESTful-API",
+    "dockerFile": "Dockerfile",
+    "appPort": 3000
+}
